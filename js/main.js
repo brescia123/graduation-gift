@@ -1,4 +1,5 @@
 $(function() {
+	$('#bgvid')[0].play();
     $('#bgvidisney').click(function() {
         if (this.paused == false) {
             $('#clickme').show();
