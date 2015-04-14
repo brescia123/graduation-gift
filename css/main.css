@@ -78,3 +78,11 @@ h1 {
     -o-background-size: cover;
     background-size: cover;
 }
+.map-cover {
+    background: url(https://s3.eu-central-1.amazonaws.com/graduation-gift/map.png) no-repeat center center fixed;
+    wi
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
